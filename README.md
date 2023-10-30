@@ -3,11 +3,15 @@
 <h3 align="center">A Passionate "Data Sorcerer"</h3>
 
 - 💬 Ask me about **Data Sorcering**
-
+  
+- 🌱 I’m currently learning AI / Prompt Engineering **ChatGpt Api**
+  
 - 📫 How to reach me **sanjaysarkasali@gmail.com**
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1fSU68mQtFj9MVlG6ZCAA6X5imbnqMv0XDlhsYZj2P9c/edit?usp=sharing](https://docs.google.com/document/d/1fSU68mQtFj9MVlG6ZCAA6X5imbnqMv0XDlhsYZj2P9c/edit?usp=sharing)
 
+- ⚡ Fun fact **I think I'm Fun**
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/sanjay-s-arkasali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sanjay-s-arkasali" height="30" width="40" /></a>
